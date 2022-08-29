@@ -27,7 +27,7 @@
 
 - Download and configure **CloudWatch** agent for your selected operating system running in your EC2 instance from [here](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html).
 
-- Create a **CloudWatch** configuration file for your EC2 instance. Refer [documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/create-cloudwatch-agent-configuration-file-wizard.html#cloudwatch-agent-running-wizard) for creating configuration file.
+- Create a **CloudWatch** configuration file for your EC2 instance. Refer [documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/create-cloudwatch-agent-configuration-file-wizard.html#cloudwatch-agent-running-wizard) for configuring **CloudWatch**.
 
 - **Amazon CloudWatch Agent Configuration Manager** will prompt with below questions, choose the options per your configuration and requirement.
 
